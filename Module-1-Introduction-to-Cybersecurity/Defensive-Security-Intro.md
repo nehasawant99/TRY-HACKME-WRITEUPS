@@ -63,26 +63,6 @@ Examples:
 
 ---
 
-### Threat Intelligence
-
-Information about attackers, malware, vulnerabilities, and Indicators of Compromise (IOCs).
-
----
-
-### DFIR
-
-Digital Forensics and Incident Response
-
-Investigates cyber incidents and helps recover systems.
-
----
-
-### Malware Analysis
-
-Understanding how malicious software behaves.
-
----
-
 ## Common Tools
 
 - Splunk
@@ -102,6 +82,7 @@ The SIEM generates an alert.
 The analyst investigates and blocks the attacker's IP.
 
 ---
+
 ## Interactive Hands-on-Labs
 * LAB 1
 <img width="1461" height="800" alt="Screenshot 2026-07-24 at 4 20 36 PM" src="https://github.com/user-attachments/assets/644b8bd0-3da3-4531-8684-4ce5147c3eba" />
