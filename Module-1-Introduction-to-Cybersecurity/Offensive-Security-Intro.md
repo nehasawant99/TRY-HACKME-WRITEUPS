@@ -91,7 +91,7 @@ The company fixes the issue before attackers can exploit it.
 
 ---
 ## Interactive Hands-on-Labs
-In this offensive lab got to know about offensive work and also got to know about hacking a bank site using tools and technologies.
+In this lab got to know about offensive work and also got to know about hacking a bank site using tools and technologies.
 
 
 <img width="1470" height="800" alt="Screenshot 2026-07-24 at 4 04 19 PM" src="https://github.com/user-attachments/assets/e3adffd5-1dbe-4d4a-8b2f-0c0c0c8315a2" />
@@ -100,7 +100,7 @@ In this offensive lab got to know about offensive work and also got to know abou
 
 
 
-<img width="1470" height="800" alt="Screenshot 2026-07-24 at 4 05 36 PM" src="https://github.com/user-attachments/assets/6e7e2aaa-4642-46a2-b72e-4e668f009348" />
+<img width="1470" height="800" alt="Screenshot 2026-07-24 at 4 05 36 PM" src="https://github.com/user-attachments/assets/500d2436-a47a-40c4-8736-7a419b950a57" />
 
 
 
