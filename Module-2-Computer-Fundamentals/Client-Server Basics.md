@@ -1,11 +1,10 @@
 # Client-Server Basics
 
-## Objective
-
 
 <img width="1461" height="397" alt="Screenshot 2026-07-24 at 8 26 00 PM" src="https://github.com/user-attachments/assets/36ea70cf-345f-41e6-8ae1-01329eb03006" />
 
 
+## Objective
 Understand how clients and servers communicate over a network and how websites and online services work.
 
 ---
