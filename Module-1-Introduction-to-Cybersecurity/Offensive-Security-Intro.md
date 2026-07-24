@@ -51,14 +51,6 @@ Only authorised professionals perform these activities.
 
 ---
 
-## Common Job Roles
-
-- Penetration Tester
-- Red Team Operator
-- Security Consultant
-- Vulnerability Researcher
-
----
 
 ## Real-world Example
 
@@ -90,6 +82,7 @@ The company fixes the issue before attackers can exploit it.
 - Problem Solving
 
 ---
+
 ## Interactive Hands-on-Labs
 In this lab, I hands on exercise and also got to know about hacking a bank site using tools and technologies.
 The job role of offensive security, what they do, which technologies, tools and the mindset
