@@ -1,5 +1,9 @@
 # Offensive Security Intro
 
+
+<img width="1461" height="396" alt="Screenshot 2026-07-24 at 4 06 11 PM" src="https://github.com/user-attachments/assets/a13fccda-1c2b-48ca-bd74-6d3f7eb1e423" />
+
+
 ## Objective
 
 Understand what Offensive Security is and how ethical hackers help organisations find security weaknesses before attackers do.
@@ -86,6 +90,17 @@ The company fixes the issue before attackers can exploit it.
 - Problem Solving
 
 ---
+## Interactive Hands-on-Labs
+In this offensive lab got to know about offensive work and also got to know about hacking a bank site using tools and technologies.
+
+
+<img width="1470" height="800" alt="Screenshot 2026-07-24 at 4 04 19 PM" src="https://github.com/user-attachments/assets/e3adffd5-1dbe-4d4a-8b2f-0c0c0c8315a2" />
+
+
+<img width="1470" height="800" alt="Screenshot 2026-07-24 at 4 05 36 PM" src="https://github.com/user-attachments/assets/6e7e2aaa-4642-46a2-b72e-4e668f009348" />
+
+
+---
 
 ## What I Learned
 
@@ -100,4 +115,4 @@ The company fixes the issue before attackers can exploit it.
 
 - Think like an attacker.
 - Work ethically.
-- Always obtain authorization.
+- Always obtain authorisation.
