@@ -8,8 +8,6 @@
 
 Understand the core components inside a computer.
 
-<img width="1470" height="800" alt="Screenshot 2026-07-20 at 7 21 00 PM" src="https://github.com/user-attachments/assets/5d6163be-2647-403c-889c-14084603fcb5" />
-
 ---
 
 ## Main Components
@@ -105,6 +103,12 @@ Storage
 Output
 
 ---
+
+
+## Interactive Hands-on-Lab:
+<img width="1470" height="800" alt="Screenshot 2026-07-20 at 7 21 00 PM" src="https://github.com/user-attachments/assets/2d72158d-7cd0-42db-95c5-2f5146434fb7" />
+In this lab got familiar with the components of a computer and also did an interactive exercise
+
 
 ## What I Learned
 
