@@ -196,8 +196,4 @@ Performed hands-on labs to see how client requests and server responses work beh
 * Ports help identify different network services.
 * Understanding client-server communication is essential for networking and cybersecurity.
 
----
 
-# Reflection
-
-In this lab, I understood how a client and server communicate to make websites and online services work. I learned how requests and responses travel through a network, the purpose of IP addresses, domain names, ports, and common protocols. This gave me a better understanding of how systems communicate and why these basics are important before learning networking and cybersecurity.
