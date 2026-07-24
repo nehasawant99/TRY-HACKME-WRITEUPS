@@ -174,11 +174,18 @@ Understanding client-server communication helps security professionals:
 
 ---
 
+
 ## Interactive Hands-on Labs
+Performed hands-on labs to see how client requests and server responses work behind the scenes, giving a practical understanding of client-server communication.
+
 
 <img width="1461" height="800" alt="Screenshot 2026-07-24 at 8 07 47 PM" src="https://github.com/user-attachments/assets/4a62d618-c7f7-47b9-89e1-801603923214" />
 
+
 <img width="1461" height="800" alt="Screenshot 2026-07-24 at 8 19 36 PM" src="https://github.com/user-attachments/assets/d8ecdfb9-f17a-4132-815e-8773c137eb5c" />
+
+
+---
 
 
 # What I Learned
