@@ -1,5 +1,8 @@
 # Careers in Cyber
 
+<img width="1460" height="396" alt="Screenshot 2026-07-24 at 12 23 32 PM" src="https://github.com/user-attachments/assets/db323e6b-d6a4-4f81-b076-0ee8ad0c120f" />
+
+
 ## Objective
 
 Understand different cybersecurity career paths.
