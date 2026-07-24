@@ -91,8 +91,8 @@ The company fixes the issue before attackers can exploit it.
 
 ---
 ## Interactive Hands-on-Labs
-In this lab got to know about offensive work and also got to know about hacking a bank site using tools and technologies.
-
+In this lab, I hands on exercise and also got to know about hacking a bank site using tools and technologies.
+The job role of offensive security, what they do, which technologies, tools and the mindset
 
 <img width="1470" height="800" alt="Screenshot 2026-07-24 at 4 04 19 PM" src="https://github.com/user-attachments/assets/e3adffd5-1dbe-4d4a-8b2f-0c0c0c8315a2" />
 
