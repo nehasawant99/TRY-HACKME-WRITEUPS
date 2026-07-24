@@ -1,5 +1,9 @@
 # Defensive Security Intro
 
+
+<img width="1461" height="392" alt="Screenshot 2026-07-24 at 4 25 02 PM" src="https://github.com/user-attachments/assets/60b4eed6-22de-45e2-a572-61ae30fdfca4" />
+
+
 ## Objective
 
 Learn how organisations protect systems from cyber attacks.
@@ -98,6 +102,15 @@ The SIEM generates an alert.
 The analyst investigates and blocks the attacker's IP.
 
 ---
+## Interactive Hands-on-Labs
+* LAB 1
+<img width="1461" height="800" alt="Screenshot 2026-07-24 at 4 20 36 PM" src="https://github.com/user-attachments/assets/644b8bd0-3da3-4531-8684-4ce5147c3eba" />
+<img width="1461" height="800" alt="Screenshot 2026-07-24 at 4 21 10 PM" src="https://github.com/user-attachments/assets/cc58b8b2-1cbf-46e9-a11d-b1815adb3af4" />
+
+* LAB 2
+<img width="1461" height="800" alt="Screenshot 2026-07-24 at 4 24 27 PM" src="https://github.com/user-attachments/assets/315e442e-ce1d-4285-b09b-b62c9b02b0a1" />
+<img width="1461" height="800" alt="Screenshot 2026-07-24 at 4 24 39 PM" src="https://github.com/user-attachments/assets/b221525b-3039-49ff-b131-a060fde52c78" />
+
 
 ## What I Learned
 
