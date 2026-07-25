@@ -113,13 +113,17 @@ Decoded using Base64.
 THM{V3r@s_aCC0unt_h4s_b33n_f0und!}
 ```
 
+
+<img width="932" height="799" alt="image" src="https://github.com/user-attachments/assets/bca2322e-e559-49a4-a8e5-998e806c32b4" />
+
+
 ---
 
 ## Tools Used
 
 - Google Search
 - Instagram
-- CyberChef / Base64 Decoder
+- Base64 Decoder
 
 ---
 
