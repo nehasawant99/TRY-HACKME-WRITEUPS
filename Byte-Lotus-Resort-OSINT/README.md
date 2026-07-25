@@ -24,11 +24,6 @@ Investigate the provided promotional brochure using basic OSINT techniques, foll
 
 ### Step 1 – Analyse the Brochure
 
-
-<img width="726" height="934" alt="thebrochure" src="https://github.com/user-attachments/assets/a8d4a391-89bb-42e5-9e51-3d2a1ac1004b" />
-
-
-
 Initial clues identified:
 
 - Byte Lotus Resorts
@@ -36,6 +31,11 @@ Initial clues identified:
 - "Find us on Instagram or not."
 
 These hints suggested searching for the resort on Instagram.
+
+
+
+<img width="726" height="934" alt="thebrochure" src="https://github.com/user-attachments/assets/a8d4a391-89bb-42e5-9e51-3d2a1ac1004b" />
+
 
 ---
 
