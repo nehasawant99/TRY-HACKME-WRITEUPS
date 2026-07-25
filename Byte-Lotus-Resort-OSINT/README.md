@@ -1,12 +1,16 @@
 # Byte Lotus Resort - OSINT Writeup
 
+
+<img width="1461" height="417" alt="image" src="https://github.com/user-attachments/assets/4e67f9b0-f72a-45bf-aaef-dc5aeb539979" />
+
+
 ## Objective
 
 Investigate the provided promotional brochure using basic OSINT techniques, follow the hidden clues, locate the concealed social media account, and recover the final flag.
 
 ---
 
-## Skills Practiced
+## Skills Practised
 
 - OSINT Investigation
 - Social Media Reconnaissance
@@ -18,7 +22,7 @@ Investigate the provided promotional brochure using basic OSINT techniques, foll
 
 ## Investigation Steps
 
-### Step 1 – Analyze the Brochure
+### Step 1 – Analyse the Brochure
 
 Initial clues identified:
 
@@ -52,7 +56,7 @@ Found:
 
 The profile contained three posts.
 
-Each post contained a fragment of a Base64 encoded string.
+Each post contained a fragment of a Base64-encoded string.
 
 Part 1
 
