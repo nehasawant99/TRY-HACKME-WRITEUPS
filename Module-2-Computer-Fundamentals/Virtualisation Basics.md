@@ -1,7 +1,7 @@
 # Virtualization Basics
 
 
-<img width="1470" height="263" alt="image" src="https://github.com/user-attachments/assets/eff7904a-1728-424f-a6ea-ead02ea54810" />
+<img width="1470" height="296" alt="image" src="https://github.com/user-attachments/assets/0f4ff91a-8e0f-475c-b63e-541c0ef94ef3" />
 
 
 ## Objective
