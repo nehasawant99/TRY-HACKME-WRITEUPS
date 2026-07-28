@@ -104,7 +104,6 @@ THM{v3r4_kn0ws_t00_much!}
 
 - TryHackMe AI Agent
 - Prompt Engineering
-- Manual Testing
 
 ---
 
