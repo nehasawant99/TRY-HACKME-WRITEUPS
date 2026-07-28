@@ -1,5 +1,5 @@
 # Byte Lotus Resort - OSINT Writeup
-
+**Room:** https://tryhackme.com/room/hh-thebrochure-081f3e36
 
 <img width="1461" height="417" alt="image" src="https://github.com/user-attachments/assets/4e67f9b0-f72a-45bf-aaef-dc5aeb539979" />
 
