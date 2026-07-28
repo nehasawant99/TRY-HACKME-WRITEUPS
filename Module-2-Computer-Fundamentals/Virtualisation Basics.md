@@ -1,7 +1,8 @@
 # Virtualization Basics
 
 
-<img width="1470" height="296" alt="image" src="https://github.com/user-attachments/assets/0f4ff91a-8e0f-475c-b63e-541c0ef94ef3" />
+<img width="1470" height="296" alt="Screenshot 2026-07-28 at 7 51 10 PM" src="https://github.com/user-attachments/assets/a759e0c8-6f84-44f2-b21f-c2e0126ab7ab" />
+
 
 
 ## Objective
