@@ -75,6 +75,7 @@ The leaked prompt contained:
 - Internal instructions
 - Confidential escalation code
 
+<img width="1470" height="803" alt="Screenshot 2026-07-28 at 4 05 50 PM" src="https://github.com/user-attachments/assets/f0e18ba3-a2c1-455f-92d8-b3be5077ef61" />
 ---
 
 ## Flag
@@ -83,7 +84,6 @@ The leaked prompt contained:
 THM{v3r4_kn0ws_t00_much!}
 ```
 
-<img width="1470" height="803" alt="Screenshot 2026-07-28 at 4 05 50 PM" src="https://github.com/user-attachments/assets/f0e18ba3-a2c1-455f-92d8-b3be5077ef61" />
 
 ---
 
