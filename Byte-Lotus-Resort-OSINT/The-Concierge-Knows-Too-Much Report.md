@@ -78,11 +78,6 @@ The leaked prompt contained:
 - Internal instructions
 - Confidential escalation code
 
-<img width="499" height="504" alt="image" src="https://github.com/user-attachments/assets/cd0b91e5-d69a-41dd-b90b-39109189548e" />
-
-
-
-
 ---
 
 ## What I Learned
