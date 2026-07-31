@@ -1,10 +1,6 @@
 # TryHackMe – Complimentary Write-Up
 
-An investigation into an AWS IAM misconfiguration within the Byte Lotus Wellness application, demonstrating how unauthenticated AWS Cognito Identity Pool credentials can lead to unauthorized Amazon DynamoDB enumeration and data exposure.
-
----
-
-* **Room Link:** [TryHackMe - Complimentary](https://tryhackme.com/room/complimentary)
+* **Room Link:** https://tryhackme.com/room/hh-complimentary-05e0b604
 * **Objective:** Investigate how the Byte Lotus Wellness application provides guest access without authentication, identify the AWS service issuing temporary credentials, exploit the IAM misconfiguration, and retrieve the hidden flag from another guest's DynamoDB record.
 
 <img width="1448" height="377" alt="image" src="https://github.com/user-attachments/assets/1346d28a-e50e-4d0b-9fc5-188da45ebf2c" />
@@ -58,7 +54,7 @@ const IDENTITY_POOL_ID = "us-east-1:836c0949-292d-485b-b532-52d5ca7bb688";
 ```
 <img width="1466" height="927" alt="Screenshot 2026-07-30 at 8 06 51 PM" src="https://github.com/user-attachments/assets/7535aeda-4fc6-4ee3-9674-5229629ab40b" />
 
-This confirmed that every visitor received temporary AWS credentials without creating an account.
+This confirmed that every visitor received temporary AWS credentials without having to create an account.
 <img width="1448" height="803" alt="image" src="https://github.com/user-attachments/assets/2d27e3dc-becb-457e-80db-6ffbd55f2f1d" />
 
 ---
