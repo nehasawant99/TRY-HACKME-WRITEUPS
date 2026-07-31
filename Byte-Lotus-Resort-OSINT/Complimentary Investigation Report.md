@@ -1,10 +1,9 @@
 # TryHackMe – Complimentary Write-Up
-
-* **Room Link:** https://tryhackme.com/room/hh-complimentary-05e0b604
-* **Objective:** Investigate how the Byte Lotus Wellness application provides guest access without authentication, identify the AWS service issuing temporary credentials, exploit the IAM misconfiguration, and retrieve the hidden flag from another guest's DynamoDB record.
+Room Link:https://tryhackme.com/room/hh-complimentary-05e0b604
 
 <img width="1448" height="377" alt="image" src="https://github.com/user-attachments/assets/1346d28a-e50e-4d0b-9fc5-188da45ebf2c" />
 
+# Objective: Investigate how the Byte Lotus Wellness application provides guest access without authentication, identify the AWS service issuing temporary credentials, exploit the IAM misconfiguration, and retrieve the hidden flag from another guest's DynamoDB record.
 ---
 
 ##  Skills Practised
