@@ -106,6 +106,19 @@ The flag was stored in the Git history.
 
 ---
 
+| Concept               | Simple Meaning                                                         |
+| --------------------- | ---------------------------------------------------------------------- |
+| Directory Enumeration | Finding hidden folders and files on a website.                         |
+| Gobuster              | A tool that automatically checks many possible directories.            |
+| `.git`                | Git repository that stores project history.                            |
+| Git                   | A version control system used to track code changes.                   |
+| `git log`             | Shows the history of all commits.                                      |
+| `git show`            | Shows the details of a specific commit.                                |
+| Commit                | A saved snapshot of the project at a particular point in time.         |
+| Source Code Exposure  | When a website accidentally exposes its source code or Git repository. |
+
+---
+
 # Tools Used
 
 * Gobuster
@@ -121,13 +134,3 @@ The flag was stored in the Git history.
 * Review both the current source code and previous commits.
 * Sensitive information should never be committed to Git repositories.
 
-| Concept               | Simple Meaning                                                         |
-| --------------------- | ---------------------------------------------------------------------- |
-| Directory Enumeration | Finding hidden folders and files on a website.                         |
-| Gobuster              | A tool that automatically checks many possible directories.            |
-| `.git`                | Git repository that stores project history.                            |
-| Git                   | A version control system used to track code changes.                   |
-| `git log`             | Shows the history of all commits.                                      |
-| `git show`            | Shows the details of a specific commit.                                |
-| Commit                | A saved snapshot of the project at a particular point in time.         |
-| Source Code Exposure  | When a website accidentally exposes its source code or Git repository. |
