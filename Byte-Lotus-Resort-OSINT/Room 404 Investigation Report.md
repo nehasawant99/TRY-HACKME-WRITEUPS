@@ -99,12 +99,6 @@ The flag was stored in the Git history.
 
 # What I Learned
 
-* Hidden directories can be found using directory enumeration.
-* A public `.git` directory exposes the application's source code.
-* Even deleted information can remain inside Git commit history.
-* Git history should always be reviewed during web assessments.
-
----
 
 | Concept               | Simple Meaning                                                         |
 | --------------------- | ---------------------------------------------------------------------- |
@@ -116,6 +110,13 @@ The flag was stored in the Git history.
 | `git show`            | Shows the details of a specific commit.                                |
 | Commit                | A saved snapshot of the project at a particular point in time.         |
 | Source Code Exposure  | When a website accidentally exposes its source code or Git repository. |
+
+
+* Hidden directories can be found using directory enumeration.
+* A public `.git` directory exposes the application's source code.
+* Even deleted information can remain inside Git commit history.
+* Git history should always be reviewed during web assessments.
+
 
 ---
 
