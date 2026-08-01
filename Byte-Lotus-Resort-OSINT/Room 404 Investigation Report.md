@@ -69,7 +69,7 @@ This indicated that the application's source code could be recovered.
 
 <img width="704" height="197" alt="Screenshot 2026-08-01 at 12 23 16 PM" src="https://github.com/user-attachments/assets/b2e03a03-ffde-4b98-a7e2-ebb5b63060ad" />
 
-Cloning gitools
+Cloning Gitools
 
 <img width="743" height="158" alt="Screenshot 2026-08-01 at 12 23 35 PM" src="https://github.com/user-attachments/assets/65efbce3-93b3-4173-9617-dd0ab30d135e" />
 
