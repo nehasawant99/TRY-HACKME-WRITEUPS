@@ -66,8 +66,10 @@ Performed hands-on exercises to understand how cloud resources are provided and 
 
 - Create a new VM machine
 <img width="1458" height="803" alt="Screenshot 2026-08-10 at 11 08 59 AM" src="https://github.com/user-attachments/assets/aacc1c5b-0da9-4e63-8b5f-0b5723fb29ff" />
+
 - Instances of machines
 <img width="743" height="486" alt="Screenshot 2026-08-10 at 11 09 38 AM" src="https://github.com/user-attachments/assets/7806dde4-e570-499e-bea2-3a387964c340" />
+
 - Billing of machines
 <img width="743" height="375" alt="Screenshot 2026-08-10 at 11 11 03 AM" src="https://github.com/user-attachments/assets/a7e90309-cc6f-4590-9d5b-fecf2c8f1cf3" />
 
