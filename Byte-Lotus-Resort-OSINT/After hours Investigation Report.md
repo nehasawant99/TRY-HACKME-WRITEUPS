@@ -1,7 +1,8 @@
-# After Hours - Write-ups
+# After Hours - Write-ups (Forensics)
+
+<img width="1459" height="361" alt="image" src="https://github.com/user-attachments/assets/665868f8-b9b7-4a0c-b08e-a07367470211" />
 
 **Room:** https://tryhackme.com/room/hh-afterhours-b090d1f0
-**Category:** Forensics / Windows / Persistence / Reverse Engineering
 
 ## Objective
 Parse the provided WMI repository artefacts by hand, locate a malicious custom WMI class, extract its embedded payload, decode it, and recover the hidden flag.
