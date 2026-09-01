@@ -1,4 +1,6 @@
 # Windows Basics
+<img width="1460" height="361" alt="image" src="https://github.com/user-attachments/assets/46aea558-aca1-4354-bb37-b4f6d79aab31" />
+
 
 ## Objective
 
